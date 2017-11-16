@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d462376d-fc7e-4c97-ae1a-6e1f8acde8d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/tryangular/templates/ang_home.html" afterPath="$PROJECT_DIR$/backend/src/tryangular/templates/ang_home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/package-lock.json" afterPath="$PROJECT_DIR$/client/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/package.json" afterPath="$PROJECT_DIR$/client/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/tryangular/static/ang/assets/json/videos.json" afterPath="$PROJECT_DIR$/backend/src/tryangular/static/ang/assets/json/videos.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/tryangular/static/ang/index.html" afterPath="$PROJECT_DIR$/backend/src/tryangular/static/ang/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/tryangular/static/ang/main.bundle.js" afterPath="$PROJECT_DIR$/backend/src/tryangular/static/ang/main.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/videos/videos.service.ts" afterPath="$PROJECT_DIR$/client/src/app/videos/videos.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/assets/json/videos.json" afterPath="$PROJECT_DIR$/client/src/assets/json/videos.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,9 +45,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/src/tryangular/static/ang/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="686" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="686" />
+              <folding>
+                <marker date="1510815281416" expanded="true" signature="679:685" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,12 +64,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ang_home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ang_home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/src/tryangular/templates/ang_home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
+              <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/assets/json/videos.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="79" column="27" lean-forward="false" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.service.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/app/videos/videos.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,6 +114,8 @@
         <option value="$PROJECT_DIR$/backend/src/tryangular/tryangular/urls.py" />
         <option value="$PROJECT_DIR$/backend/src/tryangular/static/ang/index.html" />
         <option value="$PROJECT_DIR$/backend/src/tryangular/templates/ang_home.html" />
+        <option value="$PROJECT_DIR$/client/src/assets/json/videos.json" />
+        <option value="$PROJECT_DIR$/client/src/app/videos/videos.service.ts" />
       </list>
     </option>
   </component>
@@ -192,6 +220,36 @@
               <item name="djangular" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangular" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangular" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangular" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangular" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djangular" type="b2602c69:ProjectViewProjectNode" />
@@ -360,17 +418,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/src/tryangular/static/ang/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="686" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="686" />
+          <folding>
+            <marker date="1510815281416" expanded="true" signature="679:685" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/src/tryangular/templates/ang_home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/assets/json/videos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="27" lean-forward="false" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/videos/videos.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
