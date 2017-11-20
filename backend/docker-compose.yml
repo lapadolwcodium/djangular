@@ -2,10 +2,10 @@ version: '3'
 
 services:
   db:
-    image: postgres
+    image: python:3.6.3
   web:
     build: .
-    command: python3 manage.py runserver 0.0.0.0:8000
+    command: ls src #&& python ./src/tryangular/manage.py runserver 0.0.0.0:8000
     volumes:
       - .:/code
     ports:
